@@ -1,6 +1,5 @@
 flask
 gunicorn
 pillow
-json
 time
 request
